@@ -1,0 +1,6 @@
+tree 37712fab0aa902b37e2197ebb71e4e1ba4f45f3d
+parent cc6f7c93b2e922b5216734bffdafcd92b545ff8f
+author Razvan <bobonea.razvan.ctin@gmail.com> 1794311506 +0200
+committer Razvan <bobonea.razvan.ctin@gmail.com> 1794311506 +0200
+
+B: add titles
